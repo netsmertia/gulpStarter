@@ -1,0 +1,19 @@
+{
+  "name": "mango",
+  "version": "1.0.0",
+  "description": "StudyMango front end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Natwar Singh",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^1.3.5",
+    "gulp": "^3.8.7",
+    "gulp-autoprefixer": "0.0.8",
+    "gulp-minify-css": "^0.3.7",
+    "gulp-rename": "^1.2.0",
+    "gulp-sass": "^0.7.3"
+  }
+}
